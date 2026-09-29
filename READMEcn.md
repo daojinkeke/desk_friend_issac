@@ -3,7 +3,7 @@
 一个基于 C# / WPF 的 Windows 桌宠程序，角色来自《以撒的结合：忏悔》的主角，会在桌面上自由游走、睡觉、跟你互动。
 代码通过**Trae IDE**完成，如有需要，可通过邀请链接：
 https://www.trae.cn/events/code-fission/J8EKEB45Y68K?utm_source=copy_link&utm_medium=code_fission
-下载（邀请可以送双方token）
+下载**Trae IDE**（邀请可以送双方token）
 
 `<p align="center">
   <img src="./docs/thumbup.png" width="220" alt="Isaac giving a thumbs up">
