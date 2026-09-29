@@ -1,4 +1,4 @@
-# Isaac Desktop Pet 🐑
+# Isaac Desktop Pet 
 
 A C# / WPF Windows desktop pet featuring the protagonist from *The Binding of Isaac: Repentance*. It wanders freely, sleeps, and interacts with you on your desktop.
 
@@ -6,11 +6,10 @@ Code was built with **Trae IDE**. Feel free to try it out — use this invite li
 
 > <https://www.trae.cn/events/code-fission/J8EKEB45Y68K?utm_source=copy_link&utm_medium=code_fission>
 
-  [screenshot](./docs/screenshot.png)
+  ![issac is your friend!](./docs/thumbup.png)
 
 ***
 
-> 📸 Screenshot contributions welcome — place an image at `docs/screenshot.png`
 
 ## ✨ Features
 
@@ -78,7 +77,7 @@ C#desk_issac/
 
 - **One character**: only Isaac is bundled; swap the png under `src/` for a different character
 
-Found a bug or have an idea? Drop me a line: **<daojinkeke@qq.com>**
+                Found a bug or have an idea? Drop me a line: **<daojinkeke@qq.com>**
 
 ## 📜 License
 
