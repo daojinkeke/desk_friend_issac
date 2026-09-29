@@ -1,15 +1,15 @@
 # 以撒桌宠
 
 一个基于 C# / WPF 的 Windows 桌宠程序，角色来自《以撒的结合：忏悔》的主角，会在桌面上自由游走、睡觉、跟你互动。
-代码通过Trae ide完成，如有需要，可通过邀请链接：https://www.trae.cn/events/code-fission/J8EKEB45Y68K?utm_source=copy_link&utm_medium=code_fission下载（邀请可以送双方token）
-<!-- 
-  欢迎补充截图：把截图放到 docs/screenshot.png 后取消下面这行的注释
-  ![thumbup](./docs/thumbup.png)
--->
+代码通过**Trae IDE**完成，如有需要，可通过邀请链接：
+https://www.trae.cn/events/code-fission/J8EKEB45Y68K?utm_source=copy_link&utm_medium=code_fission
+        下载（邀请可以送双方token）
+
+`<p align="center">
+  <img src="./docs/thumbup.png" width="220" alt="Isaac giving a thumbs up">
+</p>`
 
 ***
-
-> 📸 欢迎补充截图到 `docs/screenshot.png`
 
 ## ✨ 功能
 
@@ -74,7 +74,7 @@ C#desk_issac/
 - **分辨率适配**：目前仅在 150% DPI 缩放下测试过
 
 - **全屏游戏**：桌宠窗口置顶透明，但全屏游戏会截获键鼠事件，此时操控和点击都无效
-- **有bug或有新功能想法的可以发我邮箱:daojinkeke@qq.com**
+- **有bug或有新功能想法的可以发我邮箱  :  daojinkeke@qq.com**
 
 ## 📜 License
 
