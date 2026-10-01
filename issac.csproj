@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Nullable>disable</Nullable>
+    <RootNamespace>IssacPet</RootNamespace>
+    <AssemblyName>issac</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="_vf.cs" />
+    <Resource Include="src\gfx\character_001_isaac.png" LogicalName="character_001_isaac.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="src\sfx\hurt1.wav" LogicalName="hurt1.wav" />
+    <EmbeddedResource Include="src\sfx\hurt2.wav" LogicalName="hurt2.wav" />
+    <EmbeddedResource Include="src\sfx\hurt3.wav" LogicalName="hurt3.wav" />
+    <EmbeddedResource Include="src\sfx\mom1.mp3" LogicalName="mom1.mp3" />
+    <EmbeddedResource Include="src\sfx\mom2.mp3" LogicalName="mom2.mp3" />
+    <EmbeddedResource Include="src\sfx\mom3.mp3" LogicalName="mom3.mp3" />
+    <EmbeddedResource Include="src\sfx\mouse1.mp3" LogicalName="mouse1.mp3" />
+    <EmbeddedResource Include="src\sfx\mouse2.mp3" LogicalName="mouse2.mp3" />
+    <EmbeddedResource Include="src\sfx\up.mp3" LogicalName="up.mp3" />
+    <EmbeddedResource Include="src\sfx\thumbs up.mp3" LogicalName="thumbs up.mp3" />
+    <EmbeddedResource Include="src\sfx\thumbs down.mp3" LogicalName="thumbs down.mp3" />
+  </ItemGroup>
+</Project>
